@@ -1,2 +1,2 @@
-# C++ Quicksort - SPRING 2024
+# C++ Quicksort SPRING 2024
 This program implements the Quicksort algorithm to sort a given amount of numbers from a text file. The program was tested with an input file containing 10,000 randomly generated elements ranging from 0 to 100. The input file was generated from a separate program. The program reads in the number of elements, dynamically creates an array, and reads in the numbers. The quicksort function is called, and then the sorted array is output to a text file.
